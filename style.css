@@ -1,10 +1,17 @@
 ul{
                 
     color: rgb(255, 234, 127);
+    text-align: left;
+    
+    
 }
 body{
     background-color: rgb(122, 217, 233);
     color: blue;
+    display: flex;
+    text-align: center;
+ 
+
 }
 #rubrik{
     color: rgb(255, 81, 0);
